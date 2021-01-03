@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544365022 source:d:\nsu_bootcamp_s3\prerequists_level_02\main.cpp
+	<iostream>
+
+1544370889 source:d:\nsu_bootcamp_s3\prerequists_level_02\r_circle in square.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

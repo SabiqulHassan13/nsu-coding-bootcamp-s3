@@ -1,0 +1,28 @@
+tutorials links:
+https://www.topcoder.com/community/competitive-programming/tutorials/
+https://www.tutorialspoint.com/cplusplus/
+https://www.tutorialspoint.com/cplusplus/cpp_constants_literals.htm
+[_very important tutorials]
+http://web.stanford.edu/class/cs97si/		
+
+
+digital design tutorials:
+https://www.youtube.com/watch?v=Chm-zu9ntoE&list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-&index=4
+
+
+
+bootcamp season3 link:
+http://nsuproblemsolvers.com/2017/12/31/bootcamp/?fbclid=IwAR0Oy5VrLGrbK42SZyrWlRsfaiRH5Vyoi6h7cSj4fr1xSqs1wQNBwYpsdgU
+http://nsuproblemsolvers.com/2017/12/31/introduction-to-competitive-programming/
+http://nsuproblemsolvers.com/2018/02/28/bootcamp-preparation/
+
+account info:
+virtual judge
+https://vjudge.net/user/Sabiqul_Hassan
+sabiqulhassan98@gmail.com
+submiT018
+Sabiqul_Hassan
+
+bootcamp season3
+reg email: sabiqul.hassan@northsouth.edu
+Sabiq (#199545)
